@@ -1,0 +1,20 @@
+{
+  "name": "SilverAPL",
+  "description": "Import a subset of APL array operators to provide array processing sugar in a Raku-ish way",
+  "version": "0.0.1",
+  "perl": "6.*",
+  "auth": "ab5tract",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "SilverAPL": "lib/SilverAPL.pm6",
+    "SilverAPL::Functions": "lib/SilverAPL/Functions.pm6",
+    "SilverAPL::Helpers": "lib/SilverAPL/Helpers.pm6",
+    "SilverAPL::Operations": "lib/SilverAPL/Operations.pm6",
+    "SilverAPL::Operators": "lib/SilverAPL/Operators.pm6"
+  },
+  "resources": [],
+  "license": "Artistic License 2.0",
+  "source-url": "Write me!"
+}
