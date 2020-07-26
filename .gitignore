@@ -4,4 +4,4 @@
 # precompiled files
 .precomp
 lib/.precomp
-
+.idea
